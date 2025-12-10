@@ -1,2 +1,4 @@
 0.0.0.0 https://adclick.g.doubleclick.net/
 0.0.0.0 https://doubleclick.net/
+0.0.0.0 https://tpc.googlesyndication.com
+0.0.0.0 https://googlesyndication.com
