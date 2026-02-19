@@ -2,6 +2,9 @@
 0.0.0.0 https://doubleclick.net/
 0.0.0.0 https://tpc.googlesyndication.com
 0.0.0.0 https://googlesyndication.com
-0.0.0.0 softwareupdates.amazon.com
-0.0.0.0 d1s31zyz7dcc2d.cloudfront.net
-0.0.0.0 prod.ota-cloudfront.net
+0.0.0.0 http://softwareupdates.amazon.com
+0.0.0.0 http://d1s31zyz7dcc2d.cloudfront.net
+0.0.0.0 http://prod.ota-cloudfront.net
+0.0.0.0 https://softwareupdates.amazon.com
+0.0.0.0 https://d1s31zyz7dcc2d.cloudfront.net
+0.0.0.0 https://prod.ota-cloudfront.net
