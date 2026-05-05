@@ -8,3 +8,19 @@
 0.0.0.0 https://softwareupdates.amazon.com
 0.0.0.0 https://d1s31zyz7dcc2d.cloudfront.net
 0.0.0.0 https://prod.ota-cloudfront.net
+
+# Apple Update
+
+0.0.0.0 mesu.apple.com
+0.0.0.0 appldnld.apple.com 
+0.0.0.0 updates-http.cdn-apple.com
+0.0.0.0 updates.cdn-apple.com
+
+# Amazon Update
+
+0.0.0.0 softwareupdates.amazon.com
+0.0.0.0 amzdigital-a.akamaihd.net
+0.0.0.0 d1sui4w7433uhi.cloudfront.net
+0.0.0.0 d3p8zhtz30fba6.cloudfront.net
+0.0.0.0 firs-ta-g7g.amazon.com
+0.0.0.0 fmds.amazon.com
